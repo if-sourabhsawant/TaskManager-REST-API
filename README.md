@@ -88,8 +88,8 @@ The application will start on port 8080.
   "status": "In Progress",
   "expectedStartDateTime": "2023-04-25T10:00:00",
   "expectedEndDateTime": "2023-04-26T14:00:00",
-  "createdBy": "shivraj",
-  "assignedTo": "sankpal"
+  "createdBy": "sourabh",
+  "assignedTo": "shivraj"
 }
 ```
 

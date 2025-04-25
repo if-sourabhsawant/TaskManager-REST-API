@@ -1,7 +1,5 @@
 # TaskManager-REST-API
 
-# Task Manager API
-
 A Spring Boot RESTful API for managing tasks and users. This application allows users to perform CRUD operations on tasks and user profiles.
 
 ## Technologies Used
@@ -90,8 +88,8 @@ The application will start on port 8080.
   "status": "In Progress",
   "expectedStartDateTime": "2023-04-25T10:00:00",
   "expectedEndDateTime": "2023-04-26T14:00:00",
-  "createdBy": "John",
-  "assignedTo": "Jane"
+  "createdBy": "shivraj",
+  "assignedTo": "sankpal"
 }
 ```
 
@@ -99,8 +97,8 @@ The application will start on port 8080.
 
 ```json
 {
-  "firstName": "John",
-  "lastName": "Doe",
+  "firstName": "sourabh",
+  "lastName": "sawant",
   "timezone": "UTC+5:30",
   "active": true
 }
